@@ -1,4 +1,4 @@
-# Adjusting for Healthcare Utilization Improves the Performance of Self-Controlled Case Series Studiesusing Electronic Health Records
+# Adjusting for Healthcare Utilization Improves the Performance of Self-Controlled Case Series Studies using Electronic Health Records
 
 ## Abstract
 
@@ -26,9 +26,9 @@ Our results show that introducing a utilization score may reduce bias in
 SCCS studies and allow for more reliable drug safety research.
 
 
-This repository hosts figures and additional data relevant for this project.
+This repository hosts code, figures and additional data relevant for this project.
 
 Questions about the specifics in this repository can be raised by opening an 
-issue or contacting @undinag
+issue or contacting [**@undinag**](https://github.com/undinag).
 
 
